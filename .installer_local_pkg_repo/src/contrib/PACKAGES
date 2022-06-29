@@ -1013,15 +1013,6 @@ License: MIT + file LICENSE
 MD5sum: 9bfe685b031b7b96b4c1e38f7e9ed72d
 NeedsCompilation: no
 
-Package: isoband
-Version: 0.2.4
-Imports: grid, utils
-Suggests: covr, ggplot2, knitr, magick, microbenchmark, rmarkdown, sf,
-        testthat, xml2
-License: MIT + file LICENSE
-MD5sum: 06971767b3261e7216f676c5bc8401f3
-NeedsCompilation: yes
-
 Package: jpeg
 Version: 0.1-8.1
 Depends: R (>= 2.9.0)
