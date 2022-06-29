@@ -265,7 +265,6 @@ spatstat.sparse == 2.0-0
 spatstat.utils == 2.2-0
 spelling == 2.2
 stars == 0.5-3
-stringi == 1.7.3
 stringr == 1.4.0
 styler == 1.4.1
 survival == 3.2-10
