@@ -2518,15 +2518,6 @@ License: Apache License
 MD5sum: 7fe295be34ec7be4f239d0a9b8f16bf3
 NeedsCompilation: no
 
-Package: stringi
-Version: 1.7.3
-Depends: R (>= 3.1)
-Imports: tools, utils, stats
-License: file LICENSE
-License_is_FOSS: yes
-MD5sum: 94c37221840cd9f5b7545c585d0c6b07
-NeedsCompilation: yes
-
 Package: stringr
 Version: 1.4.0
 Depends: R (>= 3.1)
